@@ -30,5 +30,5 @@ Esta aplicación permite a los usuarios ingresar términos de búsqueda y obtene
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/buscador-noticias.git
-   cd buscador-noticias
+   git clone https://github.com/Frannko/NewsSearch
+   cd NewsSearch
